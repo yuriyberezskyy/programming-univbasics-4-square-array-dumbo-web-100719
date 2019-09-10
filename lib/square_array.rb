@@ -5,6 +5,6 @@ def square_array(array)
       arr[count] = array[count] ** 2
       count+=1
      end
-   
+     return arr
   end
 
